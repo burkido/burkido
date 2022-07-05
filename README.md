@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions for mobile developemnt industry.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions for mobile development industry.
+- 🎓 &nbsp; Senior Computer Engineering.
+- 💼 &nbsp; Working as a Software Developer Intern at Doğuş Teknoloji.
+- 🌱 &nbsp; Learning more about App Architectures and Android development.
+- ✍️ &nbsp; Wish to learn blockchain and backend developement.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

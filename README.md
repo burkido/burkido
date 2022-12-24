@@ -32,8 +32,8 @@
   ![Abode XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
 
 <br/>
-
-<a href="https://github.com/AVS1508">
+https://github-readme-stats.vercel.app/api?username=mcig&count_private=true&hide=contribs,issues&show_icons=true&theme=cobalt
+<a>
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=burkido&theme=merko&show_icons=true" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burkido&theme=merko&layout=compact" />
 </a>

@@ -35,7 +35,6 @@
 
 <a>
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=burkido&theme=merko&show_icons=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burkido&theme=merko&layout=compact" />
 </a>
 
 <br/>

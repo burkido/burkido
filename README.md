@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Senior Computer Engineering student.
 - 💼 &nbsp; Working as a Software Developer Intern at Doğuş Teknoloji.
 - 🌱 &nbsp; Learning more about App Architectures and Android development.
-- ✍️ &nbsp; Wish to learn blockchain and backend development.
+- ✍️ &nbsp; Wish to learn more about machine learning and backend development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

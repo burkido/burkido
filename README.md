@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions for mobile development industry.
 - 🎓 &nbsp; Recent Computer Engineering Graduate
-- 💼 &nbsp; Working as a Software Developer Intern at Doğuş Teknoloji.
+- 💼 &nbsp; Working as an Android Developer at Doğuş Teknoloji.
 - 🌱 &nbsp; Learning more about App Architectures and Android development.
 - ✍️ &nbsp; Wish to learn more about machine learning and backend development.
 
